@@ -2,7 +2,7 @@
 Tetris multiplayer online mode using Python socket and threading
 
 ## Requirement to use this app
-* Have python 3.x installed (tkinter, socket, threading is built into Python)
+* Have python 3.x installed (socket, threading is built into Python)
 * Have pygame installed
 
 ## How to run this app? 
